@@ -1,0 +1,7 @@
+{
+  "name": "Djezzy GSM NOC & Hardware Maintenance Portal",
+  "description": "Comprehensive telecom ticket management system for Djezzy GSM network managing customer support requests, network alarm escalation, and hardware maintenance schedules.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
